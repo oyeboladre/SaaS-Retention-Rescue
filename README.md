@@ -61,21 +61,7 @@ Based on the data, I provided three high-impact recommendations to the executive
 3. Deploy the "Danger List" Predictive Intervention
 *   *The Data:* The ML model identifies 90% of future churners.
 *   *The Fix:* Feed the model's daily top 15 highest-risk customers directly to the Customer Success team. Provide them with a script to call these specific users, address their open tickets, and offer a loyalty incentive. We don't need to save everyone; saving just 10% of this list protects millions in LTV.
-
----
-
-## 📊 Interactive Dashboard
-The full interactive dashboard is saved as a standalone HTML file. 
-[Click here to view the Executive Dashboard](cA dedicated Customer Success agent must reach out personally to resolve their issue. Saving these accounts prevents them from entering the "Danger Zone."
-
-2. Shift Acquisition Strategy to Annual Plans
-*   *The Data:* Monthly contracts are the primary driver of the 2024 crisis.
-*   *The Fix:* Marketing should aggressively push annual plans with a 2-month discount. For existing monthly subscribers, offer an upgrade incentive. Annual contracts inherently reduce churn because they create a psychological and financial commitment.
-
-3. Deploy the "Danger List" Predictive Intervention
-*   *The Data:* The ML model identifies 90% of future churners.
-*   *The Fix:* Feed the model's daily top 15 highest-risk customers directly to the Customer Success team. Provide them with a script to call these specific users, address their open tickets, and offer a loyalty incentive. We don't need to save everyone; saving just 10% of this list protects millions in LTV.
-
+*   
 ---
 
 ## 📊 Interactive Dashboard
