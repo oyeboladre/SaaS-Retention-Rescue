@@ -1,5 +1,4 @@
-# SaaS-Retention-Rescue
-￼# 🛑 SaaS Retention & Churn Analysis: The R$257K Investigation
+# 🛑 SaaS Retention & Churn Analysis: The R$257K Investigation
 
 ## 📖 Executive Summary
 This project is an end-to-end data investigation into a SaaS company's customer churn crisis. Faced with a 31.89% overall churn rate, I utilized Python, SQL, and Machine Learning to dissect the customer lifecycle, isolate a massive "2024 Cohort Crisis," and uncover a fatal combination of factors driving customers away. 
